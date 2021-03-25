@@ -11,7 +11,7 @@ package za.ac.mycput.test;
  */
 public class ClassTest {
         public static void main(String[] args) {
-        System.out.println("Welcome ADP!");
+        System.out.println("Welcome A!");
     }
 }
 
